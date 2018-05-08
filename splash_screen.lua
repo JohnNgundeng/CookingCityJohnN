@@ -34,7 +34,7 @@ physics.start()
  
 -- The local variables for this scene
 local logo
-local bkgSound = audio.loadSound("Sounds/boom.mp3")
+local bkgSound = audio.loadSound("Sounds/Boom.mp3")
 local splashSound
 local GRAVITY = 39
 local scrollSpeed = 20
